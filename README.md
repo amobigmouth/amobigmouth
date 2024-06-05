@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil ! 💗
 
-<!--
-**amobigmouth/amobigmouth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Daniella Miranda
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura.](https://www.alura.com.br)
+- Estou me aprimorando na linguagem JavaScript.
+- Utilizo esse espaço para divulgar os meus projetos desenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo ! 📱
+
+mirandacostadaniella2006@gmail.coom
+
+
+![](https://media1.tenor.com/m/UmHhRq4dcqIAAAAC/showing-off-connie-the-hormone-monstress.gif)
+
